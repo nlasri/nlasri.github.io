@@ -1,22 +1,22 @@
 var addressPoints = [
   [
-    "Berkeley CA, USA",
-    37.8708393,
-    -122.2728638
+    "Decathlon, France",
+    50.614991, 
+    3.060233
   ],
   [
-    "London, UK",
-    51.5073219,
-    -0.1276473
+    "Borflex, France",
+    50.646896, 
+    3.095200
   ],
   [
-    "San Francisco, California",
-    37.7792808,
-    -122.4192362
+    "Advens, France",
+    50.636882, 
+    3.066902
   ],
   [
-    "Los Angeles, CA",
-    34.0543942,
-    -118.2439408
+    "Viva Drive, Poland",
+    52.242400, 
+    21.024111
   ]
 ];
