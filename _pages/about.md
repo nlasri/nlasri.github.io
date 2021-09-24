@@ -33,7 +33,7 @@ I also like to watch movies and series in my free time.
 
 Here are my top 3 favorite movies
 | Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
+| --------         | :----: | -----------------------------------------------------------: |
 | [Fight Club](#)  | 1999   | Thriller/Drama                                               |
 | [Inception](#)   | 2010   | Action/Science Fiction                                       |
 | [Tenet](#)       | 2020   | Action/Thriller                                              |
