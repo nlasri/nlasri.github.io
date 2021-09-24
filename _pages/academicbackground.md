@@ -1,13 +1,11 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Academic background"
+permalink: /academicbacground/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+Here is my academic background:
 
 {% include base_path %}
 
