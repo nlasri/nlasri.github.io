@@ -1,7 +1,7 @@
 ---
 title: "Engineering School"
 collection: academicbackground
-type: "Engineering school"
+type: "academicbackground"
 permalink: /teaching/imt-nord-europe
 venue: "IMT Nord Europe"
 date: 2013-03-01

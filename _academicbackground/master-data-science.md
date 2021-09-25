@@ -1,7 +1,7 @@
 ---
 title: "Master Data Science"
 collection: academicbackground
-type: "Master"
+type: "academicbackground"
 permalink: /academicbackground/master-data-science
 venue: " University of Lille, Centrale Lille, IMT Nord Europe"
 date: 2013-03-01

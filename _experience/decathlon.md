@@ -1,7 +1,7 @@
 ---
 title: "Internship "Networks and Telecommunications""
 collection: experience
-type: "Experience"
+type: "experience"
 permalink: /experience/decathlon
 venue: "Decathlon"
 date: 2014-02-01
