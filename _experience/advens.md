@@ -1,11 +1,11 @@
 ---
-title: "Tutorial 1 on Relevant Topic in Your Field"
-collection: talks
-type: "Tutorial"
-permalink: /talks/2013-03-01-tutorial-1
-venue: "UC-Berkeley Institute for Testing Science"
+title: "Advens"
+collection: experience
+type: "experience"
+permalink: /talks/advens
+venue: "Advens"
 date: 2013-03-01
-location: "Berkeley CA, USA"
+location: "Lille, France"
 ---
 
 [More information here](http://exampleurl.com)
