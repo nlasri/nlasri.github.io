@@ -4,7 +4,7 @@ collection: experience
 type: "Experience"
 permalink: /experience/decathlon
 venue: "Decathlon"
-date: April 2019 – June 2019
+date: 2014-02-01
 location: "Lille, France"
 ---
 

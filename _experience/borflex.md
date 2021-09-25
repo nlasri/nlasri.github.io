@@ -1,5 +1,5 @@
 ---
-title: "Internship "Corporate culture""
+title: "Internship Corporate culture""
 collection: experience
 type: "experience"
 permalink: /talks/borflex
