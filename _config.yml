@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Narjisse LASRI"
-  avatar           : "profile.png"
+  avatar           : "cv.jpeg"
   bio              : "I am a student at the Master Data Science of Centrale Lille, IMT Nord Europe and the University of Lille."
   location         : "Lille"
   employer         :
@@ -168,10 +168,10 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  experience:
     output: true
     permalink: /:collection/:path/
-  publications:
+  academicbackground:
     output: true
     permalink: /:collection/:path/
   portfolio:
