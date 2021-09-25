@@ -1,5 +1,5 @@
 ---
-title: "Internship "Networks and Telecommunications""
+title: "Internship Networks and Telecommunications"
 collection: experience
 type: "experience"
 permalink: /experience/decathlon
