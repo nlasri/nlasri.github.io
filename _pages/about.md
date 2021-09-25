@@ -10,7 +10,7 @@ redirect_from:
 
 I am Narjisse Lasri. I am a student in the 1st year of the Master Data Science of Centrale Lille, IMT Lille douai and the University of Lille. 
 
-![A test image](/images/500x300.png)
+![Logo University of Lille, Centrale Lille and IMT Nord Europe](/images/logo.png)
 
 # Why Data Science
 
@@ -30,10 +30,3 @@ Besides Data Science, I have several hobbies.
 I like to travel to different countries and cultures. I was able to discover Morocco, Spain, Poland, Ireland, Croatia, Bosnia-Herzegovina, etc.
 
 I also like to watch movies and series in my free time.
-
-Here are my top 3 favorite movies
-| Entry            | Item   |                                                              |
-| --------         | :----: | -----------------------------------------------------------: |
-| [Fight Club](#)  | 1999   | Thriller/Drama                                               |
-| [Inception](#)   | 2010   | Action/Science Fiction                                       |
-| [Tenet](#)       | 2020   | Action/Thriller                                              |
