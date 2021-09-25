@@ -2,7 +2,7 @@
 title: "Internship Corporate culture"
 collection: experience
 type: "experience"
-permalink: /talks/borflex
+permalink: /experience/borflex
 venue: "Borflex"
 date: 2018-03-01
 location: "Lille, France"
