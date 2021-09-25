@@ -4,7 +4,7 @@ collection: academicbackground
 type: "Engineering school"
 permalink: /teaching/imt-nord-europe
 venue: "IMT Nord Europe"
-date: 2017
+date: 2013-03-01
 location: "Lille, France"
 ---
 

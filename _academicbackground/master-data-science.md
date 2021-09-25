@@ -4,7 +4,7 @@ collection: academicbackground
 type: "Master"
 permalink: /academicbackground/master-data-science
 venue: " University of Lille, Centrale Lille, IMT Nord Europe"
-date: 2021
+date: 2013-03-01
 location: "Lille, France"
 ---
 
