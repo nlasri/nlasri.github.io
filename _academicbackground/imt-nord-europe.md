@@ -4,7 +4,7 @@ collection: academicbackground
 type: "academicbackground"
 permalink: /teaching/imt-nord-europe
 venue: "IMT Nord Europe"
-date: 2013-03-01
+date: 2017-09-01
 location: "Lille, France"
 ---
 

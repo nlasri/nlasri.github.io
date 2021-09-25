@@ -4,8 +4,10 @@ collection: experience
 type: "experience"
 permalink: /experience/decathlon
 venue: "Decathlon"
-date: 2014-02-01
+date: 2019-04-01
 location: "Lille, France"
 ---
 
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+* Developed automatic processes with Google Script, Google Sheet and Google Slide to improve the information security and the reliability of Decathlon database
+* Translated a website into English and sent automatically personalised design emails using HTML/CSS
+* Created a marketing campaign during 2 months to improve the visibility of the website translated during the internship

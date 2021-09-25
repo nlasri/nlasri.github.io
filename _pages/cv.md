@@ -27,12 +27,12 @@ Work experience
   * Communication campaign
   * Development of the after-sales service
 
-* Decathlon: Research Assistant
+* Decathlon: Networks and telecommunication internship
   * Developed automatic processes with Google Script, Google Sheet and Google Slide to improve the information security and the reliability of Decathlon database
   * Translated a website into English and sent automatically personalised design emails using HTML/CSS
   * Created a marketing campaign during 2 months to improve the visibility of the website translated during the internship
 
-* Borflex: Research Assistant
+* Borflex: Corporate culture internship
   * Created efficacious and reliable quality controls
   * Diagnosed and treated problems linked to the non compliance of a product
   * Packed different types and forms of products
